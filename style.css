@@ -1,0 +1,34 @@
+.p_page, .p_prev, .p_first, .p_last, .p_next , .p_current {
+	border: 1px solid #ccc;
+	padding: 4px;
+}
+
+#pagination {
+	text-align: center;
+	border-top: 1px dotted #ccc;
+	border-bottom: 1px dotted #ccc;
+	clear: both;
+	text-align: center;
+	margin-top: 1em;
+	font-size: .75em;
+}
+
+#pagination span  {
+	margin: .1em;
+	padding: 12px 8px;
+	border: 1px solid #ccc;
+}
+
+#pagination span.p_current {
+	background: #666;
+	color: #eee;
+}
+
+#pagination span:first-letter,
+#pagination a:first-letter {
+	text-transform: uppercase;
+}
+
+.p_current {
+	color:red;
+}

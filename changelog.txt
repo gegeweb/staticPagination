@@ -1,0 +1,5 @@
+## Version 1.1 (22/10/2015) ##
+[+] Ajout de la configuration du plugin (affichage des différents éléments)
+
+## Version 1.0 (20/10/2015) ##
+version initiale
